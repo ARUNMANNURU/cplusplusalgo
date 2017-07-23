@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Thinkers", "Thinkers\Thinkers.vcxproj", "{816177C5-90CF-4713-A4AB-048CF8B9F91F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{816177C5-90CF-4713-A4AB-048CF8B9F91F}.Debug|Win32.ActiveCfg = Debug|Win32
+		{816177C5-90CF-4713-A4AB-048CF8B9F91F}.Debug|Win32.Build.0 = Debug|Win32
+		{816177C5-90CF-4713-A4AB-048CF8B9F91F}.Release|Win32.ActiveCfg = Release|Win32
+		{816177C5-90CF-4713-A4AB-048CF8B9F91F}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

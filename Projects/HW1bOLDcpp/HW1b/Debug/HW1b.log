@@ -1,0 +1,39 @@
+﻿Build started 8/27/2012 7:34:50 PM.
+     1>Project "E:\test1\HW1b\HW1b\HW1b.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\HW1b.lastbuildstate".
+       InitializeBuildStatus:
+         Touching "Debug\HW1b.unsuccessfulbuild".
+       ClCompile:
+         z:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt HW1b.cpp Table.cpp
+         Table.cpp
+     1>e:\test1\hw1b\hw1b\table.h(160): error C2143: syntax error : missing ')' before '&'
+     1>e:\test1\hw1b\hw1b\table.h(160): error C2143: syntax error : missing '{' before '&'
+     1>e:\test1\hw1b\hw1b\table.h(160): error C2059: syntax error : '&'
+     1>e:\test1\hw1b\hw1b\table.h(162): error C2059: syntax error : ')'
+     1>e:\test1\hw1b\hw1b\table.cpp(125): error C2143: syntax error : missing ')' before '&'
+     1>e:\test1\hw1b\hw1b\table.cpp(125): error C2143: syntax error : missing '{' before '&'
+     1>e:\test1\hw1b\hw1b\table.cpp(125): error C2059: syntax error : '&'
+     1>e:\test1\hw1b\hw1b\table.cpp(127): error C2059: syntax error : ')'
+         HW1b.cpp
+     1>e:\test1\hw1b\hw1b\table.h(160): error C2143: syntax error : missing ')' before '&'
+     1>e:\test1\hw1b\hw1b\table.h(160): error C2143: syntax error : missing '{' before '&'
+     1>e:\test1\hw1b\hw1b\table.h(160): error C2059: syntax error : '&'
+     1>e:\test1\hw1b\hw1b\table.h(162): error C2059: syntax error : ')'
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(25): error C2143: syntax error : missing ';' before 'type'
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(31): warning C4013: 'accessTable' undefined; assuming extern returning int
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(31): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(38): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(44): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(51): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(57): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(63): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(69): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(75): error C2065: 't' : undeclared identifier
+     1>e:\test1\hw1b\hw1b\hw1b.cpp(80): error C2065: 't' : undeclared identifier
+         Generating Code...
+     1>Done Building Project "E:\test1\HW1b\HW1b\HW1b.vcxproj" (rebuild target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:00.69

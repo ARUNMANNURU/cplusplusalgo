@@ -1,0 +1,41 @@
+﻿Build started 11/9/2012 5:15:57 PM.
+     1>Project "C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\HW3\HW3.vcxproj" on node 2 (rebuild target(s)).
+     1>_PrepareForClean:
+         Deleting file "Debug\HW3.lastbuildstate".
+       InitializeBuildStatus:
+         Creating "Debug\HW3.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         z:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\HW3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         z:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\HW3.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt HW3.cpp Integrate.cpp Polynomial.cpp
+         Polynomial.cpp
+         Integrate.cpp
+         HW3.cpp
+         Generating Code...
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\HW3.exe.embed.manifest.res" Debug\HW3_manifest.rc 
+       Link:
+         z:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.lib" /MACHINE:X86 Debug\HW3.exe.embed.manifest.res
+         Debug\HW3.obj
+         Debug\Integrate.obj
+         Debug\Polynomial.obj
+         Debug\stdafx.obj
+       Manifest:
+         Deleting file "Debug\HW3.exe.embed.manifest".
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\HW3.exe.embed.manifest" /manifest Debug\HW3.exe.intermediate.manifest
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\HW3.exe.embed.manifest.res" Debug\HW3_manifest.rc 
+       LinkEmbedManifest:
+         z:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /ManifestFile:"Debug\HW3.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.lib" /MACHINE:X86 Debug\HW3.exe.embed.manifest.res
+         Debug\HW3.obj
+         Debug\Integrate.obj
+         Debug\Polynomial.obj
+         Debug\stdafx.obj
+         HW3.vcxproj -> C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\Debug\HW3.exe
+       FinalizeBuildStatus:
+         Deleting file "Debug\HW3.unsuccessfulbuild".
+         Touching "Debug\HW3.lastbuildstate".
+     1>Done Building Project "C:\Users\Bill\Documents\Visual Studio 2010\Projects\HW3\HW3\HW3.vcxproj" (rebuild target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:00.86
